@@ -12,5 +12,4 @@ remove: [
 depends: [
   "ocamlfind" {build}
   "conf-ntl"
-  "gmp"
 ]
